@@ -14,7 +14,7 @@ export const EXPERIENCES = [
     role: "Full Stack Developer Intern",
     company: "Meta Craftlab Pvt. Ltd.",
     description: `Built a dynamic note taking application using HTML, CSS, JavaScript and Svelte. Also, created a basic Instagram clone using technologies like SvelteKit, Tailwind, JavaScript. Learnt some of the fundamental courses like GitHub, Svelte, etc.`,
-    technologies: ["HTML", "CSS", "JavaScript", "Svelte", "Tailwind"],
+    technologies: ["HTML", "CSS", "JavaScript", "Tailwind"],
   },
   {
     year: "May - July'24",
