@@ -5,8 +5,7 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I am a motivated and innovative software engineer with a passion for technology and development. I enjoy collaborating in team environments and continuously seek opportunities to learn and apply new skills. I have a strong academic background that has equipped me with a solid foundation in computer science. With a strong problem-solving mindset, I am eager to tackle new challenges and contribute effectively to meaningful projects.`;
 
-export const ABOUT_TEXT = `I am a motivated and innovative individual with a passion for technology and software development. I enjoy
-working in a team and continuously seek to learn and apply new skills. I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL and MongoDB. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects. My dedication to continuous improvement drives me to stay updated with the latest industry trends and best practices. Committed to excellence, I strive to make a positive impact through every project I undertake.`;
+export const ABOUT_TEXT = `I am a motivated and innovative individual with a passion for technology and software development. I enjoy working in a team and continuously seek to learn and apply new skills. I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, MongoDB, etc. Other than my technical skills, I enjoy clicking nature photographs and also like cooking. My dedication to continuous improvement drives me to stay updated with the latest industry trends and best practices.`;
 
 export const EXPERIENCES = [
   {
