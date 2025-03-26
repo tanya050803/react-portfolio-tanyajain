@@ -10,6 +10,13 @@ working in a team and continuously seek to learn and apply new skills. I have wo
 
 export const EXPERIENCES = [
   {
+    year: "Dec'24 - Present",
+    role: "Machine Learning Intern",
+    company: "ABV-IIITM, Gwalior",
+    description: `Working on building the Traffic Dataset, making annotations and using it for training by Yolo model. Also, working on tracking the vehicles using DeepSort Algorithm.`,
+    technologies: ["Python", "Machine Learning Models","Roboflow"],
+  },
+  {
     year: "June - July'24",
     role: "Full Stack Developer Intern",
     company: "Meta Craftlab Pvt. Ltd.",
